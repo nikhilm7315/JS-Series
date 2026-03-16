@@ -1,2 +1,2 @@
-# JS-Chai-aur-Code
-A code repo for javascript chai aur code series
+# JS
+A code repo for javascript
