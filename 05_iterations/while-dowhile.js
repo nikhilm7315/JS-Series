@@ -25,7 +25,7 @@
 //     score++
 // } while (score <= 10);
 
-
+// if starting values is greater than the conditional value
 let score = 11
 
 do {
